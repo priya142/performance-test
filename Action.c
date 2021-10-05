@@ -1,5 +1,8 @@
 Action()
-{
+
+
+
+	{
 
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 
@@ -124,8 +127,8 @@ Action()
 		"Snapshot=t17.inf", 
 		"Mode=HTML", 
 		ITEMDATA, 
-		"Name=fromPort", "Value=Philadelphia", ENDITEM, 
-		"Name=toPort", "Value=Berlin", ENDITEM, 
+		"Name=fromPort", "Value={fromport}", ENDITEM, 
+		"Name=toPort", "Value={toport}", ENDITEM, 
 		LAST);
 
 	web_submit_form("purchase.php", 
@@ -139,16 +142,16 @@ Action()
 	web_submit_form("confirmation.php", 
 		"Snapshot=t19.inf", 
 		ITEMDATA, 
-		"Name=inputName", "Value=priya", ENDITEM, 
-		"Name=address", "Value=1 main street", ENDITEM, 
-		"Name=city", "Value=sydney", ENDITEM, 
-		"Name=state", "Value=nsw", ENDITEM, 
-		"Name=zipCode", "Value=2850", ENDITEM, 
+		"Name=inputName", "Value={name}", ENDITEM, 
+		"Name=address", "Value={address}", ENDITEM, 
+		"Name=city", "Value={city}", ENDITEM, 
+		"Name=state", "Value={state}", ENDITEM, 
+		"Name=zipCode", "Value={postcode}", ENDITEM, 
 		"Name=cardType", "Value=Visa", ENDITEM, 
 		"Name=creditCardNumber", "Value=895554", ENDITEM, 
 		"Name=creditCardMonth", "Value=11", ENDITEM, 
 		"Name=creditCardYear", "Value=2017", ENDITEM, 
-		"Name=nameOnCard", "Value=priya", ENDITEM, 
+		"Name=nameOnCard", "Value={name}", ENDITEM, 
 		"Name=rememberMe", "Value=<OFF>", ENDITEM, 
 		LAST);
 

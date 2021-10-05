@@ -1,7 +1,7 @@
 [General]
 Type=Multi
 DefaultCfg=default.cfg
-ParameterFile=
+ParameterFile=performance test.prm
 GlobalParameterFile=
 NewFunctionHeader=1
 RunType=cci
@@ -58,3 +58,9 @@ LastReplayStatus=1
 [ActiveReplay]
 LastReplayedRunName=result1
 ActiveRunName=result1
+[ParameterSimulation]
+NumVusers=3
+IsDurationIndefinite=0
+NumIterationsUntilCompletion=7
+IterationFromRTS=0
+NumIterationIndefinitely=1

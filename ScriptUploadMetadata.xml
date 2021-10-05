@@ -11,23 +11,79 @@
     <FileEntry Name="performance test.usr" Filter="4" />
     <FileEntry Name="default.cfg" Filter="4" />
     <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="performance test.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="NewParam(1).dat" Filter="2" />
+    <FileEntry Name="address.dat" Filter="2" />
+    <FileEntry Name="NewParam.dat" Filter="2" />
+    <FileEntry Name="city.dat" Filter="2" />
+    <FileEntry Name="name.dat" Filter="2" />
+    <FileEntry Name="postcode.dat" Filter="2" />
     <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
+    <FileEntry Name="state.dat" Filter="2" />
     <FileEntry Name="combined_performance test.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
+    <FileEntry Name="138115851440.idx" Filter="1" />
+    <FileEntry Name="153360156440.idx" Filter="1" />
+    <FileEntry Name="168516315440.idx" Filter="1" />
+    <FileEntry Name="16851631544_167.644.idx" Filter="1" />
+    <FileEntry Name="16851631544_2En.640.idx" Filter="1" />
+    <FileEntry Name="16851631544_3gB.648.idx" Filter="1" />
+    <FileEntry Name="16851631544_aHm.635.idx" Filter="1" />
+    <FileEntry Name="16851631544_Cy7.639.idx" Filter="1" />
+    <FileEntry Name="16851631544_FQE.641.idx" Filter="1" />
+    <FileEntry Name="16851631544_GKl.653.idx" Filter="1" />
+    <FileEntry Name="16851631544_hTe.643.idx" Filter="1" />
+    <FileEntry Name="16851631544_iPE.649.idx" Filter="1" />
+    <FileEntry Name="16851631544_ITg.634.idx" Filter="1" />
+    <FileEntry Name="16851631544_jLo.505.idx" Filter="1" />
+    <FileEntry Name="16851631544_jml.650.idx" Filter="1" />
+    <FileEntry Name="16851631544_lSr.367.idx" Filter="1" />
+    <FileEntry Name="16851631544_n4l.637.idx" Filter="1" />
+    <FileEntry Name="16851631544_O7B.571.idx" Filter="1" />
+    <FileEntry Name="16851631544_OzI.638.idx" Filter="1" />
+    <FileEntry Name="16851631544_PNy.636.idx" Filter="1" />
+    <FileEntry Name="16851631544_reC.763.idx" Filter="1" />
+    <FileEntry Name="16851631544_s2i.633.idx" Filter="1" />
+    <FileEntry Name="16851631544_Smp.645.idx" Filter="1" />
+    <FileEntry Name="16851631544_tDC.879.idx" Filter="1" />
+    <FileEntry Name="16851631544_tKX.861.idx" Filter="1" />
+    <FileEntry Name="16851631544_Vhp.646.idx" Filter="1" />
+    <FileEntry Name="16851631544_vZU.631.idx" Filter="1" />
+    <FileEntry Name="16851631544_XmP.647.idx" Filter="1" />
+    <FileEntry Name="16851631544_Ynw.642.idx" Filter="1" />
+    <FileEntry Name="16851631544_yre.651.idx" Filter="1" />
+    <FileEntry Name="16851631544_ZSM.652.idx" Filter="1" />
+    <FileEntry Name="185512292440.idx" Filter="1" />
+    <FileEntry Name="227805433440.idx" Filter="1" />
+    <FileEntry Name="22780543344_0KM.597.idx" Filter="1" />
+    <FileEntry Name="22780543344_BWI.368.idx" Filter="1" />
+    <FileEntry Name="22780543344_bxP.572.idx" Filter="1" />
+    <FileEntry Name="22780543344_cPE.764.idx" Filter="1" />
+    <FileEntry Name="22780543344_GoX.577.idx" Filter="1" />
+    <FileEntry Name="22780543344_kBO.371.idx" Filter="1" />
+    <FileEntry Name="22780543344_LRR.862.idx" Filter="1" />
+    <FileEntry Name="22780543344_NkP.506.idx" Filter="1" />
+    <FileEntry Name="22780543344_Qdq.880.idx" Filter="1" />
+    <FileEntry Name="22780543344_SuN.803.idx" Filter="1" />
+    <FileEntry Name="259537320440.idx" Filter="1" />
+    <FileEntry Name="60521792440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="currentdateandtime.dat" Filter="1" />
     <FileEntry Name="data.zip" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
     <FileEntry Name="performance test.c.pickle" Filter="1" />
     <FileEntry Name="performance test.ci" Filter="1" />
+    <FileEntry Name="performance test.prm.bak" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
